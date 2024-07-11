@@ -1,0 +1,2 @@
+# 2024_Capkova_Competition_2
+Python_file_with_project_for_Competition_2_for_Python_School_2024
